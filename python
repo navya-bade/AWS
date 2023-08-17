@@ -1,0 +1,5 @@
+print("navya")
+def nav:
+    print(4+5)
+    return
+nav()
